@@ -7,10 +7,10 @@ LETS CREATE A FULL MERN NETFLIX CLONE
 ### 1.2 SET UP
 #### 1.2.1 DEPLOY MONGODB
 > **Create Database**: Go to mongodb.com and follow:
->       *1. Press Database 
->       *2. Press Create
->       *3. Press Shared for free access
->       *4. Leave as it is or select as you wish
+>       * 1. Press Database 
+>       * 2. Press Create
+>       * 3. Press Shared for free access
+>       * 4. Leave as it is or select as you wish
 
 #### 1.2.2 DEPLOY SERVER
 > **Description:** The server side will be deployed using express in NODE.js a
