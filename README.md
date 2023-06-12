@@ -7,6 +7,6 @@ LETS CREATE A FULL MERN NETFLIX CLONE
 ### 1.2 SET UP
 #### 1.2.1 DEPLOY SERVER
 > **Description:** The server side will be deployed using express in NODE.js a
-dd the following code
+dd the following code in your SERVER folder in ther terminal.
         
         yarn add axios cookie-parser cors dotenv express-validator jsonwebtoken mongoose nodemon
