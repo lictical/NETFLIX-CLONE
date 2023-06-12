@@ -39,7 +39,7 @@ dd the following code in your SERVER folder in ther terminal.
         "scripts": {
         "start": "nodemon index.js"
         },
-> ** CREATE .env FILE **: in the server folder create a .env file and add:
+> **CREATE .env FILE**: in the server folder create a .env file and add:
         
         MONGODB_URL=yourmongostringhere
         PORT= 5000
