@@ -11,7 +11,7 @@ dd the following code in your SERVER folder in ther terminal.
         
         yarn add axios cookie-parser cors dotenv express express-validator jsonwebtoken mongoose nodemon
 
-> **STEP 1**: Once the project is created add into the package.json the following lines: 
+**STEP 1**: Once the project is created add into the package.json the following lines: 
         "name": "mern-stack-ntflix-2023", 
         "type": "module",
         "version": "0.0.1",
