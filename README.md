@@ -21,8 +21,17 @@ If it is already created then just connect:
 * 7. paste in your node.js project
         
         MONGODB_URL="your-string-with-your-password"
+#### 1.2.3 DEPLOY TMBD MOVIES APP
+> To fetch data from TMBD go to:
 
-#### 1.2.2 DEPLOY SERVER
+        https://www.themoviedb.org/settings/api/new/form?type=developer
+ 
+> Then, do the following steps:
+* 1. Create API
+* 2. Fill the formulaire with any data
+* 3. Copy Token API Key and paste it in .env
+* 4. Copy Token url and paste it in .env  (https://api.themoviedb.org/3/)
+#### 1.2.3 DEPLOY SERVER
 > **Description:** The server side will be deployed using express in NODE.js a
 dd the following code in your SERVER folder in ther terminal.
         
