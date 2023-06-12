@@ -13,5 +13,13 @@ dd the following code in your SERVER folder in ther terminal.
 
 > **STEP 1**: Once the project is created add into the package.json the following lines: 
 
-        -"name": "mern-stack-ntflix-2023", 
+        "name": "mern-stack-ntflix-2023", 
+        "type": "module",
+        "version": "0.0.1",
+        "author": "Lictical",
+        "main": "index.js",
+        "license": "",
+        "scripts": {
+        "start": "nodemon index.js"
+        },
         
