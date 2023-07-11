@@ -10,8 +10,7 @@ LETS CREATE A FULL MERN NETFLIX CLONE
 * 1. Press Database -> 2. Press Create -> 3. Press Shared for free access -> 4. Leave as it is or select as you wish
 
 If it is already created then just connect:
-* 1. Press Database -> 2. Press Connect -> 3. Press Connect applicatin(since its an node.js app) -> 4. Press Drivers -> 5. Copy strin -> 6. Replace password
-* -> 7. paste in your node.js project
+* 1. Press Database -> 2. Press Connect -> 3. Press Connect applicatin(since its an node.js app) -> 4. Press Drivers -> 5. Copy strin -> 6. Replace password -> 7. paste in your node.js project
         
         MONGODB_URL="your-string-with-your-password"
 #### 1.2.3 DEPLOY TMBD MOVIES APP
