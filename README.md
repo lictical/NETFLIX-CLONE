@@ -103,8 +103,12 @@ dd the following code in your SERVER folder in ther terminal.
         });
 
 #### **1.2.4 DEPLOY FRONT END**
->Go to the main file and write:
+>Go to the main file, write the following code and then follow the instructions to install packages:
 >
 >        yarn create vite CLIENT --template react
+>
+>Install the required packages with:
+>
+>        yarn add @mui/material @mui/styled-engine-sc styled-components @fontsource/roboto @mui/icons-material @mui/lab @reduxjs/toolkit react-redux react-router-dom axios dayjs formik  yup swiper react-toastify query-string 
 
 
