@@ -104,6 +104,7 @@ dd the following code in your SERVER folder in ther terminal.
 
 #### **1.2.4 DEPLOY FRONT END**
 >Go to the main file and write:
+>
 >        yarn create vite CLIENT --template react
 
 
