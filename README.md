@@ -43,13 +43,13 @@ dd the following code in your SERVER folder in ther terminal.
 >> * package-lock.json: similar to package.json
 >> * index.js: we create the server here and add the middle ware
 >> * src: folder where the logic behind the index is created.
->> * * axios
->>   * controllers
->>   * handlers
->>   * middleware
->>   * models
->>   * routes
->>   * tmbd     
+>>   * axios: uses axios to call for data
+>>   * controllers: final end point where the logic for the end points happens
+>>   * handlers: responses to errors and validation
+>>   * middleware: takes care of authentication for the jsw authenticaiton
+>>   * models: cretaes the collections and logic for the database
+>>   * routes: create files to be used for the routes for the end points
+>>   * tmbd: connects to the tmbd api
 > 
 > **STEP 1**: Once the project is created add into the package.json the following lines: 
 
