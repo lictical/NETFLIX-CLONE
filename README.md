@@ -37,12 +37,12 @@ dd the following code in your SERVER folder in ther terminal.
         
         yarn add axios cookie-parser cors dotenv express express-validator jsonwebtoken mongoose nodemon
 > **Structure:**
-> SERVER
->> node_modules: essential part of project it contains all the libraries.
->> package.json: it contains the configuration of the file
->> package-lock.json: similar to package.json
->> index.js: we create the server here and add the middle ware
->> src: folder where the logic behind the index is created.       
+> * SERVER
+>> * node_modules: essential part of project it contains all the libraries.
+>> * package.json: it contains the configuration of the file
+>> * package-lock.json: similar to package.json
+>> * index.js: we create the server here and add the middle ware
+>> * src: folder where the logic behind the index is created.       
 > 
 > **STEP 1**: Once the project is created add into the package.json the following lines: 
 
