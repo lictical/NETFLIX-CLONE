@@ -51,6 +51,7 @@ dd the following code in your SERVER folder in ther terminal.
 >>   * routes: create files to be used for the routes for the end points
 >>   * tmbd: connects to the tmbd api
 >>** Structure for test endpoint**
+
 >> index.js -> ./src/routes/index.js -> ./user.route.js -> ../handlers/request.handler.js -> ../controllers/user.controller.js
 > 
 > **STEP 1**: Once the project is created add into the package.json the following lines: 
