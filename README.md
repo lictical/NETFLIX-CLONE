@@ -36,7 +36,8 @@ If it is already created then just connect:
 dd the following code in your SERVER folder in ther terminal.
         
         yarn add axios cookie-parser cors dotenv express express-validator jsonwebtoken mongoose nodemon
-
+> **Structure:**
+> SERVER
 > **STEP 1**: Once the project is created add into the package.json the following lines: 
 
         "name": "mern-stack-ntflix-2023", 
