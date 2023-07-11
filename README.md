@@ -42,7 +42,14 @@ dd the following code in your SERVER folder in ther terminal.
 >> * package.json: it contains the configuration of the file
 >> * package-lock.json: similar to package.json
 >> * index.js: we create the server here and add the middle ware
->> * src: folder where the logic behind the index is created.       
+>> * src: folder where the logic behind the index is created.
+>> * * axios
+>>   * controllers
+>>   * handlers
+>>   * middleware
+>>   * models
+>>   * routes
+>>   * tmbd     
 > 
 > **STEP 1**: Once the project is created add into the package.json the following lines: 
 
