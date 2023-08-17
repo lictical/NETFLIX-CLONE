@@ -103,7 +103,7 @@ dd the following code in your SERVER folder in ther terminal.
 >
 >        yarn add @mui/material @mui/styled-engine-sc styled-components @fontsource/roboto @mui/icons-material @mui/lab @reduxjs/toolkit react-redux react-router-dom axios dayjs formik  yup swiper react-toastify query-string
 >
->Run the app
+>Run the app in the terminal.
 >
 >        npx vite
 
