@@ -101,6 +101,10 @@ dd the following code in your SERVER folder in ther terminal.
 >
 >Enter the CLIENT folder and install the required packages with:
 >
->        yarn add @mui/material @mui/styled-engine-sc styled-components @fontsource/roboto @mui/icons-material @mui/lab @reduxjs/toolkit react-redux react-router-dom axios dayjs formik  yup swiper react-toastify query-string 
+>        yarn add @mui/material @mui/styled-engine-sc styled-components @fontsource/roboto @mui/icons-material @mui/lab @reduxjs/toolkit react-redux react-router-dom axios dayjs formik  yup swiper react-toastify query-string
+>
+>Run the app
+>
+>        npx vite
 
 
